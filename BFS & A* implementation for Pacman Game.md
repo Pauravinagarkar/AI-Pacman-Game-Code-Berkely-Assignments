@@ -1,3 +1,7 @@
+# AI-Berkley-Assignments
+
+# BFS & A* Implementation for Pacman Game
+
 The code for this assignment consists of several Python files, some of which you will need to read and understand in order to complete the assignment, and some of which you can ignore. You can download and unzip all the code and supporting files `search_and_games.zip`.
 
 ## Files to Edit:
